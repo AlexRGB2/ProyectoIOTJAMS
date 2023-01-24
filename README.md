@@ -1,10 +1,10 @@
 # ProjectsIoT2022
 
 ## Integrantes
-- Nombre y Apellidos del primer integrante
-- Nombre y Apellidos del segundo integrante
-- Nombre y Apellidos del tercer integrante
-- Nombre y Apellidos del cuarto integrante
+- José Alexis Martínez Bárcenas
+- Juan Pablo Jimenez Jaime
+- Julio Samuel Torres Reyes
+- Marisol Nuñez Monasterio
 
 ## Objetivo general
 Parrafo con el objetivo general
