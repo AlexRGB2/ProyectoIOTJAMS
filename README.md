@@ -1,4 +1,4 @@
-# ProjectsIoT2022
+# Barman Automatico
 
 ## Integrantes
 - José Alexis Martínez Bárcenas
