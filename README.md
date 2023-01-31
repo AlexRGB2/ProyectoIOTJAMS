@@ -27,9 +27,10 @@ El principal objetivo de nuestro proyecto es el poder hacer más eficaz el servi
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
-| 1  |  Pulsador  |             |![image](https://user-images.githubusercontent.com/41849043/215903913-bebf33e2-5db5-42f4-9c03-9ed75387d772.png)|2|99.80|
-| 2  |  Relay 8 Canales|     |![image](https://user-images.githubusercontent.com/41849043/215903727-05603d01-4f22-47cc-a362-7bcfad52bbb6.png)|1|138.00|
-| 3  |Proto Board|         |![image](https://user-images.githubusercontent.com/41849043/215903654-777973ff-9668-4cec-bc4d-0ec231e15cf8.png)|2|167.76|
+|1|Pulsador|Pendiente|![image](https://user-images.githubusercontent.com/41849043/215903913-bebf33e2-5db5-42f4-9c03-9ed75387d772.png)|2|$99.80 MXN|
+|2|Relay 8 Canales|Pendiente|![image](https://user-images.githubusercontent.com/41849043/215903727-05603d01-4f22-47cc-a362-7bcfad52bbb6.png)|1|$138.00MXN|
+|3|Proto Board|Pendiente|![image](https://user-images.githubusercontent.com/41849043/215903654-777973ff-9668-4cec-bc4d-0ec231e15cf8.png)|2|$167.76 MXN|
+|4|Raspberry Pi|Pendiente|![image](https://user-images.githubusercontent.com/41849043/215904260-e01da17b-a6ec-47e9-bda2-b8a267f1c31c.png)|1|$700 MXN|
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
 - Elemento de la lista de épicas del proyecto
