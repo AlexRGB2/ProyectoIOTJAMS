@@ -12,7 +12,7 @@ El principal objetivo de nuestro proyecto es el poder hacer más eficaz el servi
 ### Objetivos específicos
 - Automatización del proceso de servir bebidas ya sean alcholicas o para menores de edad.
 - Evitar la alteración de las bebidas al momento de servirlas.
-- 
+- La realización de bebidas de una forma más precisa y eficiente.
 - Elemento 4 de la lista de objetivos específicos
 ...
 - Elemento n de la lista de objetivos específicos
@@ -28,8 +28,8 @@ El principal objetivo de nuestro proyecto es el poder hacer más eficaz el servi
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
 | 1  |  Pulsador  |             |        |     2    |    99.80    |
-| 2  |  Relay 8 Canales   |             |        |          |             |
-|    |            |             |        |          |             |
+| 2  |  Relay 8 Canales   |     |        |     1    |    138.00   |
+| 3  |Pro Board|                |        |     2    |   167.76    |
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
 - Elemento de la lista de épicas del proyecto
