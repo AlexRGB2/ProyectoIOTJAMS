@@ -13,9 +13,6 @@ El principal objetivo de nuestro proyecto es el poder hacer más eficaz el servi
 - Automatización del proceso de servir bebidas ya sean alcholicas o para menores de edad.
 - Evitar la alteración de las bebidas al momento de servirlas.
 - La realización de bebidas de una forma más precisa y eficiente.
-- Elemento 4 de la lista de objetivos específicos
-...
-- Elemento n de la lista de objetivos específicos
 
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
