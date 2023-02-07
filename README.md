@@ -44,5 +44,7 @@ El principal objetivo de nuestro proyecto es el poder hacer más eficaz el servi
 |  4  |Como bartender, me gustaría tener un sistema que me permita concentrarme en otras tareas, como la atención al cliente y la decoración del bar, en lugar de estar constantemente detrás del mostrador preparando bebidas. El bartender automático me liberaría de esta tarea tediosa y me permitiría concentrarme en lo que realmente importa.|||||
 
 ## Prototipo en dibujo
-- Coloca la fotografia de tu prototipo dibujado a lapiz
+Coloca la fotografia de tu prototipo dibujado a lapiz
+- ![Boceto](https://user-images.githubusercontent.com/106355475/217369543-1b8f3c54-5aa4-4ea5-87cd-32857ef17d37.png)
+
 
